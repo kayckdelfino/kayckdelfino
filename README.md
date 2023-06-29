@@ -18,15 +18,15 @@ In my spare time, I like to play games most of the time and listen to a lot of m
 <br />
 <div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img height="200" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kayckdelfino&show_icons=true&theme=dracula" style="max-width: 100%;">
+        <img height="180" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kayckdelfino&show_icons=true&theme=dracula" style="max-width: 100%;">
     </a>
     <a href="https://github.com/anuraghazra/convoychat">
-        <img height="200" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kayckdelfino&show_icons=true&theme=dracula&layout=donut" style="max-width: 100%;">
+        <img height="180" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kayckdelfino&show_icons=true&theme=dracula&layout=donut" style="max-width: 100%;">
     </a>
 </div>
 
 <br />
 
-<div align="center" height="300">
+<div align="center" height="270">
     <img src="dino.gif" style="max-width: 100%;">
 </div>
