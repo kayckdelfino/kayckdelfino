@@ -20,13 +20,13 @@ In my spare time, I like to play games most of the time and listen to a lot of m
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img height="180" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kayckdelfino&show_icons=true&theme=dracula" style="max-width: 100%;">
     </a>
-    <a href="https://github.com/anuraghazra/convoychat">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
         <img height="180" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kayckdelfino&show_icons=true&theme=dracula&layout=donut" style="max-width: 100%;">
     </a>
 </div>
 
 <br />
 
-<div align="center" height="270">
-    <img src="dino.gif" style="max-width: 100%;">
+<div align="center">
+    <img height="240" src="dino.gif" style="max-width: 100%;">
 </div>
