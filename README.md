@@ -9,7 +9,7 @@ I am a bachelor's student in computer engineering at [Instituto Federal Goiano -
 In my spare time, I like to play games most of the time and listen to a lot of music.
 
 - 🔭 I’m currently working on **[public_knowledge_base](https://github.com/kayckdelfino/public_knowledge_base)**.
-- 🌱 I’m currently learning Cloud.
+- 🌱 I’m currently learning [Cloud](https://github.com/kayckdelfino/public_knowledge_base/tree/main/Cloud), [Java](https://github.com/kayckdelfino/public_knowledge_base/tree/main/Java) and [Python](https://github.com/kayckdelfino/public_knowledge_base/tree/main/Python).
 
 <br />
 
